@@ -16,6 +16,8 @@ A list of tmux plugins.
   percentage and icon indicator.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
+- [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
+  navigation for tmux.
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging
   and screen capturing.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) -
