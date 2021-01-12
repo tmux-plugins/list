@@ -14,6 +14,8 @@ A list of tmux plugins.
   search.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
+  and load monitor for use with tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
@@ -40,6 +42,8 @@ A list of tmux plugins.
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
   the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When
+  attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open
   any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather
