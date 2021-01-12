@@ -42,6 +42,8 @@ A list of tmux plugins.
   the directory tree for the current path. Tries to make tmux more IDE like.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open
   any url on your terminal window!
+- [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather
+  information in your terminal.
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying
   to system clipboard. Works on MacOS, Linux and Cygwin.
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
