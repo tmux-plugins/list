@@ -14,8 +14,6 @@ A list of tmux plugins.
   search.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
-- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
-  and load monitor for use with tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
@@ -24,6 +22,8 @@ A list of tmux plugins.
   and screen capturing.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) -
   Plugin that counts files on a specific mail directory.
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
+  and load monitor for use with tmux.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) -
