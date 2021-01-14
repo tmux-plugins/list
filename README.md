@@ -22,6 +22,8 @@ A list of tmux plugins.
   and screen capturing.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) -
   Plugin that counts files on a specific mail directory.
+- [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
+  and load monitor for use with tmux.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) -
@@ -40,6 +42,8 @@ A list of tmux plugins.
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
   the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When
+  attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open
   any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather
