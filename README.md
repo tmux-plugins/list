@@ -12,6 +12,8 @@ A list of tmux plugins.
   tmux start when computer is turned on.
 - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - Enhances tmux
   search.
+- [tmux-copytk](https://github.com/crispy1989/tmux-copy-toolkit) - Multi
+  utility rapid copy toolkit.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
