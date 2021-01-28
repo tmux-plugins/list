@@ -34,6 +34,7 @@ A list of tmux plugins.
   for quick opening of a highlighted file or url.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) -
   Standard pane key-bindings for tmux.
+- [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
   - Plugin that highlights when you press tmux prefix key.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists
