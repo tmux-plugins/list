@@ -7,6 +7,8 @@ A list of tmux plugins.
   ma, no mouse!
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play
   battery percentage and icon indicator.
+- [tmux-colours-superhero](https://github.com/tmux-colours-superhero) - A
+  superhero themed tmux theme.
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous
   saving of tmux environment. Automatic restore when tmux is started. Automatic
   tmux start when computer is turned on.
