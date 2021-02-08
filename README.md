@@ -48,6 +48,7 @@ A list of tmux plugins.
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
   the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When
   attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open
