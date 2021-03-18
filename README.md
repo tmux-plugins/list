@@ -41,9 +41,9 @@ A list of tmux plugins.
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your
   [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro
-- technique with timer showing in tmux status bar.
+  technique with timer showing in tmux status bar.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
-  - Plugin that highlights when you press tmux prefix key.
+  Plugin that highlights when you press tmux prefix key.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists
   tmux environment across system restarts.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux
