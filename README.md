@@ -22,6 +22,7 @@ A list of tmux plugins.
   on your terminal window in your $EDITOR of choice!
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
   navigation for tmux.
+- [tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) - Show current keyboard layout in your status bar
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging
   and screen capturing.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) -
@@ -36,6 +37,7 @@ A list of tmux plugins.
   for quick opening of a highlighted file or url.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) -
   Standard pane key-bindings for tmux.
+- [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your
   [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro
