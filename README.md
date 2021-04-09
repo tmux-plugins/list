@@ -42,6 +42,7 @@ A list of tmux plugins.
   [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro
   technique with timer showing in tmux status bar.
+- [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - A fork of tmux-pomodoro with more options and greater adherence to the technique.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
   Plugin that highlights when you press tmux prefix key.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists
