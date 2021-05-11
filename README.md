@@ -16,6 +16,8 @@ A list of tmux plugins.
   search.
 - [tmux-copytk](https://github.com/crispy1989/tmux-copy-toolkit) - Multi
   utility rapid copy toolkit.
+- [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging
+  processes fast.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
