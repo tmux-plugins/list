@@ -34,6 +34,7 @@ A list of tmux plugins.
   and load monitor for use with tmux.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
+- [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Showing currently playing track in tmux status bar with music controls.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) -
   Tmux plugin that displays online status of your computer.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings
