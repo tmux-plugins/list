@@ -6,6 +6,7 @@ A list of tmux plugins.
 - [extrakto](https://github.com/laktak/extrakto) - Allows you to select text
   from your window by fuzzy matching it through a set of filters with fzf. Look
   ma, no mouse!
+- [muxile](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play
   battery percentage and icon indicator.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) -
