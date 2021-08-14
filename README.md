@@ -22,6 +22,7 @@ A list of tmux plugins.
   processes fast.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
+- [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
