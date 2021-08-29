@@ -34,6 +34,7 @@ A list of tmux plugins.
   Plugin that counts files on a specific mail directory.
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
   and load monitor for use with tmux.
+- [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Displays prompt indicating currently active Tmux mode.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) -
@@ -60,6 +61,7 @@ A list of tmux plugins.
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
   the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When
   attaching to tmux session, update $DISPLAY for each tmux pane in that session.
