@@ -7,6 +7,7 @@ A list of tmux plugins.
   from your window by fuzzy matching it through a set of filters with fzf. Look
   ma, no mouse!
 - [muxile](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+- [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play
   battery percentage and icon indicator.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) -
