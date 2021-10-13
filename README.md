@@ -36,6 +36,7 @@ A list of tmux plugins.
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM,
   and load monitor for use with tmux.
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Displays prompt indicating currently active Tmux mode.
+- [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) -
