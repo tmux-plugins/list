@@ -71,6 +71,7 @@ A list of tmux plugins.
   any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather
   information in your terminal.
+- [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying
   to system clipboard. Works on MacOS, Linux and Cygwin.
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
