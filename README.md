@@ -41,6 +41,8 @@ A list of tmux plugins.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
+- [tmux-newsboat](https://github.com/tmux-plugins/tmux-newsboat) - Display
+  [newsboat](https://newsboat.org) counters in tmux status line.
 - [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) -
   Showing currently playing track in tmux status bar with music controls.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) -
