@@ -2,6 +2,8 @@
 
 A list of tmux plugins.
 
+Pro tip: watch this repository to get notified about new plugins.
+
 - [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) - Allows monitoring activity in sessions and panes with [ActivityWatch](https://activitywatch.net).
 - [extrakto](https://github.com/laktak/extrakto) - Allows you to select text
   from your window by fuzzy matching it through a set of filters with fzf. Look
