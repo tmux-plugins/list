@@ -40,6 +40,7 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Displays prompt indicating currently active Tmux mode.
+- [tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux
   plugin to monitor upload and download speed of one or all interfaces.
