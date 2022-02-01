@@ -25,6 +25,7 @@ Pro tip: watch this repository to get notified about new plugins.
   processes fast.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
+- [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
