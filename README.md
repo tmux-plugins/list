@@ -84,6 +84,7 @@ Pro tip: watch this repository to get notified about new plugins.
   any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather
   information in your terminal.
+- [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying
   to system clipboard. Works on MacOS, Linux and Cygwin.
