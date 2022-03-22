@@ -57,6 +57,7 @@ Pro tip: watch this repository to get notified about new plugins.
   Tmux plugin that displays online status of your computer.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings
   for quick opening of a highlighted file or url.
+- [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) -
   Standard pane key-bindings for tmux.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
