@@ -53,6 +53,7 @@ Pro tip: watch this repository to get notified about new plugins.
   plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-newsboat](https://github.com/tmux-plugins/tmux-newsboat) - Display
   [newsboat](https://newsboat.org) counters in tmux status line.
+- [tmux-notify](https://github.com/ChanderG/tmux-notify) - Tmux plugin to notify you when processes complete.
 - [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) -
   Showing currently playing track in tmux status bar with music controls.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) -
