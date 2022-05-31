@@ -30,6 +30,7 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
+- [tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - Open or create a tmux session with fzf with a popup menu.
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
   navigation for tmux.
 - [tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) - Show current keyboard layout in your status bar
