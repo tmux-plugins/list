@@ -77,6 +77,7 @@ Pro tip: watch this repository to get notified about new plugins.
   tmux environment across system restarts.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux
   settings everyone can agree on.
+- [tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using [fzf](https://github.com/junegunn/fzf) & [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) -
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
