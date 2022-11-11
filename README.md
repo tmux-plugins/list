@@ -82,6 +82,7 @@ Pro tip: watch this repository to get notified about new plugins.
   Lightweight utils for manipulating sessions.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with
   the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-spotify-tui](https://github.com/alexchaichan/tmux-spotify-tui) - Plugin that shows current playing song with [Spotify-TUI](https://github.com/Rigellute/spotify-tui).
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When
