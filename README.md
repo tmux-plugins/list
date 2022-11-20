@@ -96,3 +96,4 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying
   to system clipboard. Works on MacOS, Linux and Cygwin.
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
+- [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
