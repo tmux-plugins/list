@@ -98,4 +98,4 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying
   to system clipboard. Works on MacOS, Linux and Cygwin.
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
-- [tmux-ip-address](https://github.com/tmux-ip-address) - Plugin for show public IP on status bar of tmux.
+- [tmux-ip-address](https://github.com/anghootys/tmux-ip-address) - Plugin for show public IP on status bar of tmux.
