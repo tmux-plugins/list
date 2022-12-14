@@ -33,6 +33,7 @@ Pro tip: watch this repository to get notified about new plugins.
   on your terminal window in your $EDITOR of choice!
 - [tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage tmux environment.
 - [tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - Open or create a tmux session with fzf with a popup menu.
+- [tmux-ip-address](https://github.com/anghootys/tmux-ip-address) - Plugin for show public IP on status bar.
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like
   navigation for tmux.
 - [tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) - Show current keyboard layout in your status bar
