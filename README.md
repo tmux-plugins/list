@@ -14,6 +14,7 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play
   battery percentage and icon indicator.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
+- [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) -
   A superhero themed tmux colour theme.
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous
