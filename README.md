@@ -65,6 +65,7 @@ Pro tip: watch this repository to get notified about new plugins.
   Tmux plugin that displays online status of your computer.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings
   for quick opening of a highlighted file or url.
+- [tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - Tmux plugin to help with opening files in an nvim pane. Pairs well with tmux-open or tmux-fingers.
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) -
   Standard pane key-bindings for tmux.
