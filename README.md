@@ -13,6 +13,7 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play
   battery percentage and icon indicator.
+- [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) -
@@ -29,6 +30,7 @@ Pro tip: watch this repository to get notified about new plugins.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
 - [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
+- [tmux-digit](https://github.com/Freed-Wu/tmux-digit) - Display digit signs (⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳) in status bar of tmux
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path
   on your terminal window in your $EDITOR of choice!
