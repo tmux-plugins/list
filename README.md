@@ -29,6 +29,7 @@ Pro tip: watch this repository to get notified about new plugins.
   processes fast.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu
   percentage and icon indicator.
+- [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
 - [tmux-digit](https://github.com/Freed-Wu/tmux-digit) - Display digit signs (⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳) in status bar of tmux
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
