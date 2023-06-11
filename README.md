@@ -79,6 +79,7 @@ A list of tmux plugins.
 - [tmux-spotify-tui](https://github.com/alexchaichan/tmux-spotify-tui) - Plugin that shows current playing song with [Spotify-TUI](https://github.com/Rigellute/spotify-tui).
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
 
 
