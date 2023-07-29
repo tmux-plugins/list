@@ -80,6 +80,7 @@ A list of tmux plugins.
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
+- [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session
 
 
 ## Themes
