@@ -26,7 +26,7 @@ A list of tmux plugins.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
 - [treemux](https://github.com/kiyoon/treemux) - A sidebar with the modern [Nvim-Tree](https://github.com/nvim-tree/nvim-tree.lua) file explorer for the current path, with bi-directional interaction in focus.
-
+- [tmux-neolazygit](https://github.com/AngryMorrocoy/tmux-neolazygit) - Integration of [lazygit](https://github.com/jesseduffield/lazygit) with Tmux and neovim.
 
 ## Copy Mode
 - [extrakto](https://github.com/laktak/extrakto) - Allows you to select text from your window by fuzzy matching it through a set of filters with fzf. Look ma, no mouse!
