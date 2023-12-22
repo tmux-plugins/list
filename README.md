@@ -44,6 +44,7 @@ A list of tmux plugins.
 
 
 ## Sessions
+- [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - Open or create a tmux session with fzf with a popup menu.
 - [tmux-named-snapshot](https://github.com/spywhere/tmux-named-snapshot) - A tmux-resurrect extension for named snapshot support. Save and restore multiple snapshots to your will.
