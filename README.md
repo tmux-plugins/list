@@ -87,3 +87,4 @@ A list of tmux plugins.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A superhero themed tmux colour theme.
 - [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
+- [tmux](https://github.com/catppuccin/tmux) - Soothing pastel theme for Tmux
