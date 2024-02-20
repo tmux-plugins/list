@@ -99,4 +99,6 @@ A list of tmux plugins.
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarizes theme for tmux.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A superhero themed tmux colour theme.
 - [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
+- [tmux-nord](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme
+- [tmux-nord-plusplus](https://github.com/Wabri/tmux-nord-plusplus) - An arctic, north-bluish clean and elegant tmux color theme with support for battery & pomodoro.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
