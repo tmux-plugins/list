@@ -22,6 +22,7 @@ A list of tmux plugins.
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) - Tmux plugin to notify you when processes complete.
 - [tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - Tmux plugin to help with opening files in an nvim pane. Pairs well with tmux-open or tmux-fingers.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url.
+- [tmux-pane-focus](https://github.com/graemedavidson/tmux-pane-focus) - Resize panes on focus.
 - [tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, then unzoom it back into it's original location.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux settings everyone can agree on.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
