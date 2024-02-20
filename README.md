@@ -71,6 +71,7 @@ A list of tmux plugins.
 - [tmux-digit](https://github.com/Freed-Wu/tmux-digit) - Display digit signs (⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳) in status bar of tmux
 - [tmux-ip-address](https://github.com/anghootys/tmux-ip-address) - Plugin for show public IP on status bar.
 - [tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) - Show current keyboard layout in your status bar
+- [tmux-kube](https://github.com/jonmosco/kube-tmux) - Plugin that lets you add the current Kubernetes context and namespace configured on kubectl to your tmux status bar.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) - Plugin that counts files on a specific mail directory.
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Displays prompt indicating currently active Tmux mode.
