@@ -62,6 +62,7 @@ A list of tmux plugins.
 
 
 ## Status Bar
+- [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator.
