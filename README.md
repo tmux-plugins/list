@@ -16,6 +16,7 @@ A list of tmux plugins.
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
+- [tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) - Tmux plugin to notify you when processes complete.
 - [tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - Tmux plugin to help with opening files in an nvim pane. Pairs well with tmux-open or tmux-fingers.
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url.
@@ -44,6 +45,7 @@ A list of tmux plugins.
 
 
 ## Sessions
+- [t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - manage tmux sessions in a smart way with zoxide.
 - [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - Open or create a tmux session with fzf with a popup menu.
