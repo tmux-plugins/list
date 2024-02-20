@@ -17,6 +17,7 @@ A list of tmux plugins.
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
+- [tmux-neolazygit](https://github.com/AngryMorrocoy/tmux-neolazygit) - Integration of [lazygit](https://github.com/jesseduffield/lazygit) with Tmux and neovim.
 - [tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
 - [tmux-notify](https://github.com/ChanderG/tmux-notify) - Tmux plugin to notify you when processes complete.
 - [tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - Tmux plugin to help with opening files in an nvim pane. Pairs well with tmux-open or tmux-fingers.
