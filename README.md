@@ -92,6 +92,7 @@ A list of tmux plugins.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
+- [tmux-xdrip](https://github.com/Cian911/tmux-xdrip) - Tmux plugin that displays your glucose level & direction from xDrip in your terminal..
 
 
 ## Themes
