@@ -39,6 +39,7 @@ A list of tmux plugins.
 - [tmux-copytk](https://github.com/crispy1989/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying to system clipboard. Works on MacOS, Linux and Cygwin.
+- [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - Better mouse responsivity in tmux.
 
 
 ## Navigation
