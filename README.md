@@ -90,6 +90,7 @@ A list of tmux plugins.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key.
 - [tmux-spotify-tui](https://github.com/alexchaichan/tmux-spotify-tui) - Plugin that shows current playing song with [Spotify-TUI](https://github.com/Rigellute/spotify-tui).
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
+- [tmux-uptime](https://github.com/robhurring/tmux-uptime) - Display your system uptime in the tmux status line.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
