@@ -37,11 +37,11 @@ A list of tmux plugins.
 
 ## Copy Mode
 - [extrakto](https://github.com/laktak/extrakto) - Allows you to select text from your window by fuzzy matching it through a set of filters with fzf. Look ma, no mouse!
+- [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - Better mouse responsivity in tmux.
 - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - Enhances tmux search.
 - [tmux-copytk](https://github.com/crispy1989/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying to system clipboard. Works on MacOS, Linux and Cygwin.
-- [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - Better mouse responsivity in tmux.
 
 
 ## Navigation
@@ -61,12 +61,13 @@ A list of tmux plugins.
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using [fzf](https://github.com/junegunn/fzf) & [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight utils for manipulating sessions.
+- [tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with Zoxide support, preview, fuzzy finding, and MORE
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
-- [tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with Zoxide support, preview, fuzzy finding, and MORE
 
 
 ## Status Bar
+- [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
@@ -95,16 +96,15 @@ A list of tmux plugins.
 - [tmux-uptime](https://github.com/robhurring/tmux-uptime) - Display your system uptime in the tmux status line.
 - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window!
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
-- [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
 - [tmux-xdrip](https://github.com/Cian911/tmux-xdrip) - Tmux plugin that displays your glucose level & direction from xDrip in your terminal..
 
 
 ## Themes
 - [catppuccin](https://github.com/catppuccin/tmux) - A soothing pastel theme for tmux.
+- [dracula](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarizes theme for tmux.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A superhero themed tmux colour theme.
 - [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-nord](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme
 - [tmux-nord-plusplus](https://github.com/Wabri/tmux-nord-plusplus) - An arctic, north-bluish clean and elegant tmux color theme with support for battery & pomodoro.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
-- [dracula](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
