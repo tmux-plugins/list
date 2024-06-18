@@ -30,6 +30,7 @@ A list of tmux plugins.
 - [tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - Allows users to select actions from a customizable popup menu
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
+- [tome](https://github.com/laktak/tome) 🔁 Script playbooks for frequent commands in any terminal application
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
 - [treemux](https://github.com/kiyoon/treemux) - A sidebar with the modern [Nvim-Tree](https://github.com/nvim-tree/nvim-tree.lua) file explorer for the current path, with bi-directional interaction in focus.
 
