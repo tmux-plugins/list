@@ -102,7 +102,7 @@ A list of tmux plugins.
 ## Themes
 - [catppuccin](https://github.com/catppuccin/tmux) - A soothing pastel theme for tmux.
 - [dracula](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
-- [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarizes theme for tmux.
+- [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarized theme for tmux.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A superhero themed tmux colour theme.
 - [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-nord](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme
