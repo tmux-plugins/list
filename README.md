@@ -11,6 +11,7 @@ A list of tmux plugins.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast.
+- [tmux-floating-plugin](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage tmux environment.
