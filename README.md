@@ -89,6 +89,7 @@ A list of tmux plugins.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) - Tmux plugin that displays online status of your computer.
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level.
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+- [tmux-ping](https://github.com/ayzenquwe/tmux-ping) - Shows an average ping latency to a specified host.
 - [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - A fork of tmux-pomodoro with more options and greater adherence to the technique.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro technique with timer showing in tmux status bar.
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
