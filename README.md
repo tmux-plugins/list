@@ -12,6 +12,7 @@ A list of tmux plugins.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
+- [tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - Quickly open any type of link, not only url, with your editor or browser or any app of your liking. It is a rewriting of [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url), and offers more flexibility and extensibility. It supports colors (e.g. $LS_COLORS).
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage tmux environment.
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
