@@ -66,6 +66,7 @@ A list of tmux plugins.
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight utils for manipulating sessions.
 - [tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with Zoxide support, preview, fuzzy finding, and MORE
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
+- [tmux-tpad](https://github.com/Subbeh/tmux-tpad) - A popup window session manager.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 
 
