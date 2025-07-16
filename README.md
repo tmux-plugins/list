@@ -11,9 +11,12 @@ A list of tmux plugins.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast.
+- [tmux-floating-plugin](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
-- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage tmux environment.
+- [tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - Quickly open any type of link, not only url, with your editor or browser or any app of your liking. It is a rewriting of [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url), and offers more flexibility and extensibility. It supports colors (e.g. $LS_COLORS).
+- [tmux-fzf-open-files-nvim](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - Tmux plugin to open files in neovim parsed from terminal output using fzf for selection.
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
@@ -53,7 +56,7 @@ A list of tmux plugins.
 
 
 ## Sessions
-- [t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - manage tmux sessions in a smart way with zoxide.
+- [sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal.
 - [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-fzf-session-switch](https://github.com/thuanpham2311/tmux-fzf-session-switch) - Open or create a tmux session with fzf with a popup menu.
@@ -90,6 +93,7 @@ A list of tmux plugins.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) - Tmux plugin that displays online status of your computer.
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level.
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+- [tmux-ping](https://github.com/ayzenquwe/tmux-ping) - Shows an average ping latency to a specified host.
 - [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - A fork of tmux-pomodoro with more options and greater adherence to the technique.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro technique with timer showing in tmux status bar.
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
@@ -105,9 +109,10 @@ A list of tmux plugins.
 ## Themes
 - [catppuccin](https://github.com/catppuccin/tmux) - A soothing pastel theme for tmux.
 - [dracula](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
-- [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarizes theme for tmux.
+- [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarized theme for tmux.
 - [tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A superhero themed tmux colour theme.
 - [tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 - [tmux-nord](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme
 - [tmux-nord-plusplus](https://github.com/Wabri/tmux-nord-plusplus) - An arctic, north-bluish clean and elegant tmux color theme with support for battery & pomodoro.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
+- [rose-pine](https://github.com/rose-pine/tmux) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist for tmux.
