@@ -17,6 +17,7 @@ A list of tmux plugins.
 - [tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - Quickly open any type of link, not only url, with your editor or browser or any app of your liking. It is a rewriting of [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url), and offers more flexibility and extensibility. It supports colors (e.g. $LS_COLORS).
 - [tmux-fzf-open-files-nvim](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - Tmux plugin to open files in neovim parsed from terminal output using fzf for selection.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
+- [tmux-gentrify](https://github.com/kristopolous/tmux-gentrify) - Move panes effortless between windows using a cut/paste clipboard flow.
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
@@ -30,6 +31,7 @@ A list of tmux plugins.
 - [tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, then unzoom it back into it's original location.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux settings everyone can agree on.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 - [tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - Allows users to select actions from a customizable popup menu
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
@@ -66,11 +68,13 @@ A list of tmux plugins.
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight utils for manipulating sessions.
 - [tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with Zoxide support, preview, fuzzy finding, and MORE
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
+- [tmux-tea](https://github.com/2KAbhishek/tmux-tea) - Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) - A popup window session manager.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 
 
 ## Status Bar
+- [tmux2k](https://github.com/2KAbhishek/tmux2k) - Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
