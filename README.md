@@ -17,6 +17,7 @@ A list of tmux plugins.
 - [tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - Quickly open any type of link, not only url, with your editor or browser or any app of your liking. It is a rewriting of [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url), and offers more flexibility and extensibility. It supports colors (e.g. $LS_COLORS).
 - [tmux-fzf-open-files-nvim](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - Tmux plugin to open files in neovim parsed from terminal output using fzf for selection.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
+- [tmux-gentrify](https://github.com/kristopolous/tmux-gentrify) - Move panes effortless between windows using a cut/paste clipboard flow.
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
