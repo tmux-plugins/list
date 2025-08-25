@@ -30,6 +30,7 @@ A list of tmux plugins.
 - [tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, then unzoom it back into it's original location.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux settings everyone can agree on.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 - [tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - Allows users to select actions from a customizable popup menu
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 - [tmux-wormhole](https://github.com/gcla/tmux-wormhole) - Download files and directories with magic wormhole.
@@ -66,10 +67,12 @@ A list of tmux plugins.
 - [tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight utils for manipulating sessions.
 - [tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with Zoxide support, preview, fuzzy finding, and MORE
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
+- [tmux-tea](https://github.com/2KAbhishek/tmux-tea) - Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 
 
 ## Status Bar
+- [tmux2k](https://github.com/2KAbhishek/tmux2k) - Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
