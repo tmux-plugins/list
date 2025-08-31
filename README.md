@@ -5,6 +5,7 @@ A list of tmux plugins.
 **Pro tip**: watch this repository to get notified about new plugins.
 
 ## General
+
 - [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) - Allows monitoring activity in sessions and panes with [ActivityWatch](https://activitywatch.net).
 - [muxile](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
@@ -19,7 +20,7 @@ A list of tmux plugins.
 - [tmux-fzf-open-files-nvim](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - Tmux plugin to open files in neovim parsed from terminal output using fzf for selection.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-gentrify](https://github.com/kristopolous/tmux-gentrify) - Move panes effortless between windows using a cut/paste clipboard flow.
-- [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
+- [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
@@ -39,9 +40,10 @@ A list of tmux plugins.
 - [tome](https://github.com/laktak/tome) 🔁 Script playbooks for frequent commands in any terminal application
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux plugin manager.
 - [treemux](https://github.com/kiyoon/treemux) - A sidebar with the modern [Nvim-Tree](https://github.com/nvim-tree/nvim-tree.lua) file explorer for the current path, with bi-directional interaction in focus.
-
+- [port](https://github.com/fiqryq/port) - A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
 
 ## Copy Mode
+
 - [extrakto](https://github.com/laktak/extrakto) - Allows you to select text from your window by fuzzy matching it through a set of filters with fzf. Look ma, no mouse!
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - Better mouse responsivity in tmux.
 - [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - Enhances tmux search.
@@ -49,15 +51,15 @@ A list of tmux plugins.
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying
 - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Plugin for copying to system clipboard. Works on MacOS, Linux and Cygwin.
 
-
 ## Navigation
+
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
 - [tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - Standard pane key-bindings for tmux.
 
-
 ## Sessions
+
 - [sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal.
 - [tmux-cookie-cutter](https://github.com/AranBorkum/tmux-cookie-cutter) - An environment setup tool for pre-configuring windows and panes
 - [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
@@ -74,8 +76,8 @@ A list of tmux plugins.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) - A popup window session manager.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 
-
 ## Status Bar
+
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) - Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
@@ -109,8 +111,8 @@ A list of tmux plugins.
 - [tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in your terminal.
 - [tmux-xdrip](https://github.com/Cian911/tmux-xdrip) - Tmux plugin that displays your glucose level & direction from xDrip in your terminal..
 
-
 ## Themes
+
 - [catppuccin](https://github.com/catppuccin/tmux) - A soothing pastel theme for tmux.
 - [dracula](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A solarized theme for tmux.
