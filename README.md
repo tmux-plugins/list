@@ -58,6 +58,7 @@ A list of tmux plugins.
 
 
 ## Sessions
+- [tmux-zenflow](https://github.com/binoymanoj/tmux-zenflow) - Achieve the Zen workflow with tmux-zenflow plugin inside you tmux.
 - [sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal.
 - [tmux-cookie-cutter](https://github.com/AranBorkum/tmux-cookie-cutter) - An environment setup tool for pre-configuring windows and panes
 - [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
