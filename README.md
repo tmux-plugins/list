@@ -120,3 +120,4 @@ A list of tmux plugins.
 - [tmux-nord-plusplus](https://github.com/Wabri/tmux-nord-plusplus) - An arctic, north-bluish clean and elegant tmux color theme with support for battery & pomodoro.
 - [tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Per session color and style based on session name
 - [rose-pine](https://github.com/rose-pine/tmux) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist for tmux.
+- [vanzi](https://github.com/tarquibrian/vanzi) - Clean and minimalist tmux theme.
