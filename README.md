@@ -102,6 +102,7 @@ A list of tmux plugins.
 - [tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - Use Pomodoro technique with timer showing in tmux status bar.
 - [tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key.
+- [tmux-session-dots](https://github.com/jtmcginty/tmux-session-dots) - Visual session indicator showing all sessions as dots with the current session highlighted.
 - [tmux-spotify-tui](https://github.com/alexchaichan/tmux-spotify-tui) - Plugin that shows current playing song with [Spotify-TUI](https://github.com/Rigellute/spotify-tui).
 - [tmux-ticker](https://github.com/Brutuski/tmux-ticker) - Keep a track of popular market indexes and stock price.
 - [tmux-uptime](https://github.com/robhurring/tmux-uptime) - Display your system uptime in the tmux status line.
