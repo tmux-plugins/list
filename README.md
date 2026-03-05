@@ -33,6 +33,7 @@ A list of tmux plugins.
 - [tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, then unzoom it back into it's original location.
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - Basic tmux settings everyone can agree on.
 - [tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+- [tmux-smart-layout](https://github.com/nurey/tmux-smart-layout) - Automatically rearranges panes based on their contents using process and content pattern matching.
 - [tmux-tilit](https://github.com/2KAbhishek/tmux-tilit) - Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 - [tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - Allows users to select actions from a customizable popup menu
 - [tmux-window-name](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
