@@ -97,6 +97,7 @@ A list of tmux plugins.
 - [tmux-newsboat](https://github.com/tmux-plugins/tmux-newsboat) - Display [newsboat](https://newsboat.org) counters in tmux status line.
 - [tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Showing currently playing track in tmux status bar with music controls.
 - [tmux-online-status](https://github.com/tmux-plugins/tmux-online-status) - Tmux plugin that displays online status of your computer.
+- [tmux-opencode-usage](https://github.com/0x3k/tmux-opencode-usage) - Live opencode AI usage in the status bar — prompts sent and tokens consumed, sourced directly from the local database.
 - [tmux-packet-loss](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level.
 - [tmux-piavpn](https://github.com/Brutuski/tmux-piavpn) - Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 - [tmux-ping](https://github.com/ayzenquwe/tmux-ping) - Shows an average ping latency to a specified host.
