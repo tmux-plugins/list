@@ -83,6 +83,7 @@ A list of tmux plugins.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
+- [tmux-cinnamon-notify](https://github.com/odtgit/tmux-cinnamon-notify) - Display Cinnamon desktop notifications in the status bar.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator.
 - [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
 - [tmux-digit](https://github.com/Freed-Wu/tmux-digit) - Display digit signs (⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳) in status bar of tmux
@@ -92,6 +93,7 @@ A list of tmux plugins.
 - [tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter) - Plugin that counts files on a specific mail directory.
 - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
 - [tmux-mode-indicator](https://github.com/MunifTanjim/tmux-mode-indicator) - Displays prompt indicating currently active Tmux mode.
+- [tmux-mpris](https://github.com/odtgit/tmux-mpris) - Display now-playing media info via MPRIS/playerctl.
 - [tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed) - Tmux plugin to monitor upload and download speed of one or all interfaces.
 - [tmux-newsboat](https://github.com/tmux-plugins/tmux-newsboat) - Display [newsboat](https://newsboat.org) counters in tmux status line.
