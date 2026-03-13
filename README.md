@@ -12,7 +12,7 @@ A list of tmux plugins.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast.
-- [tmux-devcontainers](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)[https://containers.dev]
+- [tmux-devcontainers](https://github.com/phil/tmux-devcontainers) - Manage and interact with [Devcontainers](https://containers.dev)
 - [tmux-floating-plugin](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
 - [tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage tmux environment.
@@ -21,6 +21,7 @@ A list of tmux plugins.
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - Quickly open any url on your terminal window using fzf!
 - [tmux-gentrify](https://github.com/kristopolous/tmux-gentrify) - Move panes effortless between windows using a cut/paste clipboard flow.
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
+- [tmux-lattice](https://github.com/phil/tmux-lattice) - Simple shortcut to auto equalise pane sizes in the current window
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
