@@ -85,6 +85,7 @@ A list of tmux plugins.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator.
 - [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
+- [tmux-harvest](https://github.com/nsa-brandon/tmux-harvest) - Harvest time tracking from tmux — start, stop, log, and edit time entries without leaving the terminal.
 - [tmux-digit](https://github.com/Freed-Wu/tmux-digit) - Display digit signs (⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳) in status bar of tmux
 - [tmux-ip-address](https://github.com/anghootys/tmux-ip-address) - Plugin for show public IP on status bar.
 - [tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) - Show current keyboard layout in your status bar
