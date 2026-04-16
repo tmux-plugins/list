@@ -60,6 +60,7 @@ A list of tmux plugins.
 
 ## Sessions
 - [sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal.
+- [opensessions](https://github.com/Ataraxy-Labs/opensessions) - Persistent tmux sidebar for session switching, agent status, git context, and instant jumps across sessions.
 - [tmux-assistant-resurrect](https://github.com/timvw/tmux-assistant-resurrect) - Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI) across tmux restarts.
 - [tmux-cookie-cutter](https://github.com/AranBorkum/tmux-cookie-cutter) - An environment setup tool for pre-configuring windows and panes
 - [tmux-conda-inherit](https://github.com/oluevaera/tmux-conda-inherit) - Make new tmux windows and panes inherit the currently active conda environment.
