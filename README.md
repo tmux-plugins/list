@@ -83,6 +83,7 @@ A list of tmux plugins.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
+- [tmux-claude-usage](https://github.com/robhurring/tmux-claude-usage) - Show Claude Code rate limits, cost, and model in your tmux status bar.
 - [tmux-code-time](https://github.com/theo64oliver/tmux-code-time) - Tracks time spent in sessions. Displays session duration in your status bar.
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator.
 - [tmux-df](https://github.com/tassaron/tmux-df) - Output of `df` in the status bar
