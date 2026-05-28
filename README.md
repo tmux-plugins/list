@@ -53,6 +53,7 @@ A list of tmux plugins.
 
 ## Navigation
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
+- [tmux-jumplist](https://github.com/joryeugene/tmux-jumplist) - Navigate back and forward through pane history, like Ctrl-O/Ctrl-I in Vim.
 - [tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - Standard pane key-bindings for tmux.
