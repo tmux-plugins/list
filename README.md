@@ -75,6 +75,7 @@ A list of tmux plugins.
 - [tmux-tea](https://github.com/2KAbhishek/tmux-tea) - Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) - A popup window session manager.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
+- [tmux-vanzi-hub](https://github.com/tarquibrian/tmux-vanzi-hub) - Persistent multi-agent hub for tmux: run Claude Code, Codex, and other ACP agents in popups backed by a daemon; works with a subscription or a provider API key, no lock-in.
 
 
 ## Status Bar
