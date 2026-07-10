@@ -12,7 +12,7 @@ A list of tmux plugins.
 - [tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions.
 - [tmux-cargo](https://github.com/idevtier/tmux-cargo) - Plugin for executing cargo commands
 - [tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast.
-- [tmux-ctrl](https://github.com/MunifTanjim/tmux-ctrl) - Command-line tool for controlling tmux, with keybindings for session navigation, moving panes, and extracting tokens from pane content.
+- [tmux-ctrl](https://github.com/MunifTanjim/tmux-ctrl) - Control tmux from the command line: session navigation, pane moving, and token extraction.
 - [tmux-devcontainers](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)[https://containers.dev]
 - [tmux-floating-plugin](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 - [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
