@@ -23,6 +23,7 @@ A list of tmux plugins.
 - [tmux-git-autofetch](https://github.com/thepante/tmux-git-autofetch/) - Automatically fetches current opened git repositories on your tmux session 
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing.
 - [tmux-menus](https://github.com/jaclu/tmux-menus) - Popup menus to handle commands that are hard to remember, and some custom actions.
+- [tmux-help-menus](https://github.com/virigould/tmux-help-menu/tree/main) - Popup Menu that reads your existing tmux environment and keys and provides a searchable interface to look through all of your bindings. 
 - [tmux-mighty-scroll](https://github.com/noscript/tmux-mighty-scroll) - Seamless mouse scroll.
 - [tmux-neolazygit](https://github.com/AngryMorrocoy/tmux-neolazygit) - Integration of [lazygit](https://github.com/jesseduffield/lazygit) with Tmux and neovim.
 - [tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
