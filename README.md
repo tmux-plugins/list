@@ -74,6 +74,7 @@ A list of tmux plugins.
 - [tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [tmux-tea](https://github.com/2KAbhishek/tmux-tea) - Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 - [tmux-tpad](https://github.com/Subbeh/tmux-tpad) - A popup window session manager.
+- [tmux-ui-manager](https://github.com/binara-sachin/tmux-ui-manager) - Mouse-capable popup editor for sessions/windows/panes, with drag-and-drop and inline rename.
 - [tmux-update-display](https://github.com/lljbash/tmux-update-display) - When attaching to tmux session, update $DISPLAY for each tmux pane in that session.
 
 
