@@ -80,6 +80,7 @@ A list of tmux plugins.
 ## Status Bar
 - [tmux2k](https://github.com/2KAbhishek/tmux2k) - Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 - [tmux-acpi](https://github.com/briansalehi/tmux-acpi) - Display ACPI information including thermal status, battery health, battery percentage, and adapter status.
+- [tmux-agent-state](https://github.com/cburmeister/tmux-agent-state) - Agent state on your tmux window tabs. For people who already live in tmux and run coding agents in it.
 - [tmux-aws-vault](https://github.com/mateimicu/tmux-aws-vault) - Display current aws-vault context and time remaining in the session.
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator.
 - [tmux-bitahub](https://github.com/Freed-Wu/tmux-bitahub) - Display GPU status of [bitahub](https://www.bitahub.com/) in status bar of tmux
