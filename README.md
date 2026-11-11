@@ -59,6 +59,7 @@ A list of tmux plugins.
 
 
 ## Sessions
+- [deja-vu](https://github.com/vshulcz/deja-vu) - Search, preview, handoff, and resume AI coding agent sessions across 43 tools in a popup, plus a status bar segment.
 - [sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal.
 - [tmux-assistant-resurrect](https://github.com/timvw/tmux-assistant-resurrect) - Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI) across tmux restarts.
 - [tmux-cookie-cutter](https://github.com/AranBorkum/tmux-cookie-cutter) - An environment setup tool for pre-configuring windows and panes
