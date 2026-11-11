@@ -56,6 +56,7 @@ A list of tmux plugins.
 - [tmux-modal](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 - [tmux-mouse-swipe](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - Standard pane key-bindings for tmux.
+- [tmux-flash](https://github.com/Leandros/tmux-flash) - Vimium/Easymotion like navigation, inspired by flash.nvim for tmux. Written in Rust. No runtime dependencies.
 
 
 ## Sessions
