@@ -6,6 +6,7 @@ A list of tmux plugins.
 
 ## General
 - [aw-watcher-tmux](https://github.com/akohlbecker/aw-watcher-tmux) - Allows monitoring activity in sessions and panes with [ActivityWatch](https://activitywatch.net).
+- [keymux](https://github.com/caikmoraes/keymux) - which-key for tmux: press the prefix and a popup lists your prefix bindings, read live from tmux itself (no separate config; notes come from `bind -N`).
 - [muxile](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 - [tabby](https://github.com/brendandebeasi/tabby) - Modern tab manager with a daemon-driven vertical sidebar, window grouping, and full mouse support.
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
